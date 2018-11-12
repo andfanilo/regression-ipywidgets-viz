@@ -1,0 +1,16 @@
+name: demo
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - jupyter
+  - matplotlib
+  - numpy
+  - python=3.6
+  - pytorch
+  - pip:
+    - graphviz
+    - scikit-learn
+    - scipy
