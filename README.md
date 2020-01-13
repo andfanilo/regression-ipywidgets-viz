@@ -4,7 +4,7 @@
 
 In this repo, you will find a bunch of notebooks I wrote for building widgets that demonstrate a regression to a somewhat arbitrary function.
 
-![Demo gif](https://github.com/andfanilo/cotrecs_20181109/raw/master/demo.gif "Demo gif")
+![Demo gif](./demo.gif "Demo gif")
 
 # Setup / Run
 
